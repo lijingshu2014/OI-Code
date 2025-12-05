@@ -438,7 +438,7 @@ int main()
 {
 int a,b;
 cin>>a>>b;
-cout<<a+b<<"Hello World!"<<endl;
+cout<<a+b<<endl<<"Hello World!"<<endl;
 return 0;
 }
 ```
